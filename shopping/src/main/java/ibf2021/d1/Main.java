@@ -3,6 +3,7 @@ package ibf2021.d1;
 import java.util.*;
 
 public class Main {
+    // test
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
             ArrayList<String> cartList = new ArrayList<>();
